@@ -37,7 +37,7 @@ API RESTful para gerenciamento de itens e autenticação de usuários, desenvolv
    ```
 5. Inicie o servidor:
    ```bash
-   npm start
+   nod app js
    ```
 
 ## Endpoints Principais
